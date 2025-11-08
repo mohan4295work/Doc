@@ -1,10 +1,10 @@
-# 🙌 Welcome to Mohan Work’s GitHub  
+# 🙌 Welcome to Mohan Sundaram GitHub  
 > Turning ideas into working pipelines, shipping code and building systems 🚀  
 
 ---
 
 ## 👤 About Me  
-I’m **Mohan Work** — an engineer who builds scalable systems, optimises workflows and enjoys transforming concepts into production-ready software.  
+I’m **Mohan Sundaram ** — an engineer who builds scalable systems, optimises workflows and enjoys transforming concepts into production-ready software.  
 Here on GitHub you’ll find my experiments, side-projects, professional tooling and open-source contributions.
 
 ---
@@ -23,11 +23,12 @@ While I’m always learning, here’s a snapshot of what I work with:
 Here are a few of my favourite repositories:  
 | Name | Description | Status |
 |------|-------------|--------|
-| `project-pipeline-xyz` | A reusable CI/CD pipeline template for micro-services | Active |
-| `tooling-automation-abc` | Scripts and tools to automate infrastructure configuration | Maintenance |
-| `open-source-lib-123` | An open-source library I maintain for internal use | Growing |
+| `Automated Monitoring Reporting` | A reusable CI/CD pipeline template for micro-services | Active |
+| `DB2 DB Monitoring Report` | Scripts and tools to automate infrastructure configuration | Active |
+| `Linux Filesystem Monitoring` | Scripts and tools to automate Linux File system Monitoring | Active |
+| `Website Monitoring Report` | Scripts and tools to website infrastructure Monitoring | Active |
 
-*(Add links and descriptions based on your actual repos)*
+*(Project Link: https://gitlab.com/users/mohan4295work/projects)*
 
 ---
 
@@ -48,9 +49,29 @@ Blog: mohan4295.blogspot.com
 
 X (Twitter): @mohan4295
 
-LinkedIn, GitLab or other profiles: (add links as needed)
+LinkedIn : https://www.linkedin.com/in/sundarammohan/
 
-📄 License
+GitLab : https://gitlab.com/mohan4295work
 
-Unless stated otherwise in individual repositories, most projects here are released under the MIT License
- — feel free to use, modify and contribute back.
+
+📄 MIT License
+
+Copyright (c) 2025 Mohan Sundaram.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in  
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING  
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS  
+IN THE SOFTWARE.
